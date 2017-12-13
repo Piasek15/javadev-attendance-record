@@ -1,0 +1,6 @@
+INSERT INTO student (name, surname, email) VALUES ('Patrick', 'Piasecki', 'costam@cos.pl')
+INSERT INTO student (name, surname, email) VALUES ('Michael', 'Scofield', 'ms1@gmail.com')
+INSERT INTO student (name, surname, email) VALUES ('Sara', 'Tancredi', 'st1@gmail.com')
+--INSERT INTO subject (topic, description) VALUES ('java', 'Rzeszow')
+--INSERT INTO subject (topic, description) VALUES ('spring', 'Rzeszow2')
+--INSERT INTO subject (topic, description) VALUES ('data', 'Rzeszow3')
